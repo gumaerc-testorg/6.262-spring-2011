@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains solution to the problem branching process.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-262-discrete-stochastic-processes-spring-2011/89783a68df74118697ba4c21f03632f0_MIT6_262S11_assn09_sol.pdf
+file: /media/courses/6-262-discrete-stochastic-processes-spring-2011/89783a68df74118697ba4c21f03632f0_MIT6_262S11_assn09_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MIT6_262S11_assn09_sol.pdf
 uid: 89783a68-df74-1186-97ba-4c21f03632f0

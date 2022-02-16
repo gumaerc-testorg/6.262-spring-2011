@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains solution for the problem set counting process.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-262-discrete-stochastic-processes-spring-2011/0e44be4e3d2d66eb8a9991606b996793_MIT6_262S11_assn04_sol.pdf
+file: /media/courses/6-262-discrete-stochastic-processes-spring-2011/0e44be4e3d2d66eb8a9991606b996793_MIT6_262S11_assn04_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MIT6_262S11_assn04_sol.pdf
 uid: 0e44be4e-3d2d-66eb-8a99-91606b996793

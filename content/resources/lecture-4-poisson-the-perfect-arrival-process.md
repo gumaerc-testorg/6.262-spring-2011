@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: Poisson (The Perfect Arrival Process) ([PDF](resources/mit6_262s11_lec04))
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Poisson (The Perfect Arrival Process)'
 uid: 2b725f3c-1f29-8116-51c6-a94eb1969f5d
 video_files:
   archive_url: http://www.archive.org/download/MIT6.262S11/MIT6_262S11_lec04_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-262-discrete-stochastic-processes-spring-2011/97d50dc8e157558e88ee4a2e4434bcd8_qxaBDDib9_A.vtt
+  video_captions_file: /courses/6-262-discrete-stochastic-processes-spring-2011/97d50dc8e157558e88ee4a2e4434bcd8_qxaBDDib9_A.vtt
   video_thumbnail_file: https://img.youtube.com/vi/qxaBDDib9_A/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-262-discrete-stochastic-processes-spring-2011/a936492143be4ed87a63249b1da67735_qxaBDDib9_A.pdf
+  video_transcript_file: /courses/6-262-discrete-stochastic-processes-spring-2011/a936492143be4ed87a63249b1da67735_qxaBDDib9_A.pdf
 video_metadata:
   youtube_id: qxaBDDib9_A
 ---

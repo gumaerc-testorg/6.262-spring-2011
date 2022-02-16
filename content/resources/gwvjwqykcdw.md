@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-262-discrete-stochastic-processes-spring-2011/47ec4a28f585a17c75bc0cb175089338_GwVjWQykCDw.srt
+file: /media/courses/6-262-discrete-stochastic-processes-spring-2011/47ec4a28f585a17c75bc0cb175089338_GwVjWQykCDw.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 47ec4a28-f585-a17c-75bc-0cb175089338

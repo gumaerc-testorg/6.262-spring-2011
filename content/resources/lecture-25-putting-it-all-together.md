@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: Putting It All Together ([PDF](resources/mit6_262s11_lec25))
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 25: Putting It All Together'
 uid: 8ce6a4e5-c1ad-dab8-19b0-7e9491edb9aa
 video_files:
   archive_url: http://www.archive.org/download/MIT6.262S11/MIT6_262S11_lec25_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-262-discrete-stochastic-processes-spring-2011/d96ecd0522bd5d81b3a80af1e39597fe_mq3nFovdG3o.vtt
+  video_captions_file: /courses/6-262-discrete-stochastic-processes-spring-2011/d96ecd0522bd5d81b3a80af1e39597fe_mq3nFovdG3o.vtt
   video_thumbnail_file: https://img.youtube.com/vi/mq3nFovdG3o/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-262-discrete-stochastic-processes-spring-2011/d747d129c7bf515a8492021480060dcf_mq3nFovdG3o.pdf
+  video_transcript_file: /courses/6-262-discrete-stochastic-processes-spring-2011/d747d129c7bf515a8492021480060dcf_mq3nFovdG3o.pdf
 video_metadata:
   youtube_id: mq3nFovdG3o
 ---

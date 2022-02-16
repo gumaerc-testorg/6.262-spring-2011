@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: Countable-state Markov Processes ([PDF](resources/mit6_262s11_lec19))
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 19: Countable-state Markov Processes'
 uid: 99e20c0e-f145-baa8-8ae4-e690fdf89985
 video_files:
   archive_url: http://www.archive.org/download/MIT6.262S11/MIT6_262S11_lec19_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-262-discrete-stochastic-processes-spring-2011/f767de7847605fc1928383f387723c01_ImKFBTqLqdE.vtt
+  video_captions_file: /courses/6-262-discrete-stochastic-processes-spring-2011/f767de7847605fc1928383f387723c01_ImKFBTqLqdE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/ImKFBTqLqdE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-262-discrete-stochastic-processes-spring-2011/920575c4ace64e010c9f0fa9401ea164_ImKFBTqLqdE.pdf
+  video_transcript_file: /courses/6-262-discrete-stochastic-processes-spring-2011/920575c4ace64e010c9f0fa9401ea164_ImKFBTqLqdE.pdf
 video_metadata:
   youtube_id: ImKFBTqLqdE
 ---

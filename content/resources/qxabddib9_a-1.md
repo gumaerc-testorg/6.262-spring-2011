@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-262-discrete-stochastic-processes-spring-2011/a936492143be4ed87a63249b1da67735_qxaBDDib9_A.pdf
+file: /media/courses/6-262-discrete-stochastic-processes-spring-2011/a936492143be4ed87a63249b1da67735_qxaBDDib9_A.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: a9364921-43be-4ed8-7a63-249b1da67735

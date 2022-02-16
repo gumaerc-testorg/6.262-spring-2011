@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: Random Walks and Thresholds ([PDF](resources/mit6_262s11_lec22))
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 22: Random Walks and Thresholds'
 uid: 62d6f026-9627-fa87-6d98-2977a22d6ce5
 video_files:
   archive_url: http://www.archive.org/download/MIT6.262S11/MIT6_262S11_lec22_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-262-discrete-stochastic-processes-spring-2011/dc63ec7ea74d5d09b6f908a1d8151286_K-iHODiS0-8.vtt
+  video_captions_file: /courses/6-262-discrete-stochastic-processes-spring-2011/dc63ec7ea74d5d09b6f908a1d8151286_K-iHODiS0-8.vtt
   video_thumbnail_file: https://img.youtube.com/vi/K-iHODiS0-8/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-262-discrete-stochastic-processes-spring-2011/e3ad0f194e882768cbd9fd1ce704647c_K-iHODiS0-8.pdf
+  video_transcript_file: /courses/6-262-discrete-stochastic-processes-spring-2011/e3ad0f194e882768cbd9fd1ce704647c_K-iHODiS0-8.pdf
 video_metadata:
   youtube_id: K-iHODiS0-8
 ---
