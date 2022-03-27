@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e6eac52a-e463-cfd2-eab3-5a5db3902ecb
 resourcetype: Document
 title: MIT6_262S11_assn05_sol.pdf
 uid: 99a36778-8475-e6d8-ff02-51b81d484661

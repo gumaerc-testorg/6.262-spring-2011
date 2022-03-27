@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3c0472d2-5b1f-6045-5e1f-dd7b8be916db
 resourcetype: Document
 title: MIT6_262S11_final09_sol.pdf
 uid: 35df0c6d-934c-1c56-7401-d19afa5c668e

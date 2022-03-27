@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: c993794d-3d33-ecec-dc71-65ca875a7660
 resourcetype: Document
 title: MIT6_262S11_front.pdf
 uid: b965db48-9a93-7671-3933-7e0a41d2c419
