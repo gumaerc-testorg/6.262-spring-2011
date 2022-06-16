@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: From Poisson to Markov ([PDF](resources/mit6_262s11_lec06))
+optional_text: From Poisson to Markov ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec06))
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -29,3 +30,6 @@ video_metadata:
 (Courtesy of Mina Karzand. Used with permission.)
 
 **Instructor:** Mina Karzand
+
+
+

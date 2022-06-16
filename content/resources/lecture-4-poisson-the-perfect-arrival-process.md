@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Poisson (The Perfect Arrival Process) ([PDF](resources/mit6_262s11_lec04))
+optional_text: Poisson (The Perfect Arrival Process) ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec04))
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture begins with a description of arrival processes, and continues on to describe the Poisson process from three different viewpoints.
 
 **Instructor:** Prof. Robert Gallager
+
+
+

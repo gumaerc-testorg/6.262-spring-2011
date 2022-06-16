@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Poisson Combining and Splitting ([PDF](resources/mit6_262s11_lec05))
+optional_text: Poisson Combining and Splitting ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec05))
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, many problem solving techniques are developed using, first, combining and splitting of various Poisson processes, and, second, conditioning on the number of arrivals in an interval.
 
 **Instructor:** Prof. Robert Gallager
+
+
+

@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Martingales (Plain, Sub, and Super) ([PDF](resources/mit6_262s11_lec23))
+optional_text: Martingales (Plain, Sub, and Super) ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec23))
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** After reviewing Wald's identity, we introduce martingales and show they include many processes already studied. Next, submartingales, supermartingales, and stopped (simple, sub, super) martingales are introduced.
 
 **Instructor:** Prof. Robert Gallager
+
+
+

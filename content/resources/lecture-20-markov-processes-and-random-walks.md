@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Markov Processes and Random Walks ([PDF](resources/mit6_262s11_lec20))
+optional_text: Markov Processes and Random Walks ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec20))
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** After reviewing steady-state, this lecture discusses reversibility for Markov processes and for tandem M/M/1 queues. Random walks and their applications are then introduced.
 
 **Instructor:** Prof. Robert Gallager
+
+
+

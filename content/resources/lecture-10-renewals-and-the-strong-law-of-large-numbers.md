@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Renewals and the Strong Law of Large Numbers ([PDF](resources/mit6_262s11_lec10))
+optional_text: Renewals and the Strong Law of Large Numbers ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec10))
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Renewal processes are introduced and their importance in analyzing other processes is explained. Proofs about convergence with probability 1 (WP1) and the SLLN are given.
 
 **Instructor:** Prof. Robert Gallager
+
+
+

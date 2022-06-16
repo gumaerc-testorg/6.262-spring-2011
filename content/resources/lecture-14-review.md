@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Review ([PDF](resources/mit6_262s11_lec14))
+optional_text: Review ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec14))
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture reviews the previous 13 lectures in preparation for the upcoming quiz.
 
 **Instructor:** Prof. Robert Gallager
+
+
+

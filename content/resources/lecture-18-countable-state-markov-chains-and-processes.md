@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Countable-state Markov Chains and Processes ([PDF](resources/mit6_262s11_lec18))
+optional_text: Countable-state Markov Chains and Processes ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec18))
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, the professor covers sample-time M/M/1 queue, Burke’s theorem, branching processes, and Markov processes with countable state spaces.
 
 **Instructor:** Prof. Robert Gallager
+
+
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-262-discrete-stochastic-processes-spring-2011/b9d25a138a53641f9b804920fcfd3a54_QWHtRR1jMEQ.pdf
+file: /courses/6-262-discrete-stochastic-processes-spring-2011/b9d25a138a53641f9b804920fcfd3a54_QWHtRR1jMEQ.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

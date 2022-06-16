@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Countable-state Markov Chains ([PDF](resources/mit6_262s11_lec17))
+optional_text: Countable-state Markov Chains ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec17))
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture begins with a discussion of convergence WP1 related to a quiz problem. Then positive and null recurrence, steady state, birth-death chains, and reversibility are covered.
 
 **Instructor:** Prof. Robert Gallager
+
+
+

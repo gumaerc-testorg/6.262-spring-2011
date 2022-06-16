@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Markov Eigenvalues and Eigenvectors ([PDF](resources/mit6_262s11_lec08))
+optional_text: Markov Eigenvalues and Eigenvectors ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec08))
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture covers eigenvalues and eigenvectors of the transition matrix and the steady-state vector of Markov chains. It also includes an analysis of a 2-state Markov chain and a discussion of the Jordan form.
 
 **Instructor:** Prof. Robert Gallager
+
+
+

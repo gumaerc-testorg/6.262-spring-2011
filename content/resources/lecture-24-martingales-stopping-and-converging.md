@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: 'Martingales: Stopping and Converging ([PDF](resources/mit6_262s11_lec24))'
+optional_text: 'Martingales: Stopping and Converging ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec24))'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture continues our conversation on Martingales and covers stopped martingales, Kolmogorov submartingale inequality, martingale convergence theorem, and more.
 
 **Instructor:** Prof. Robert Gallager
+
+
+

@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: 'Renewals: Strong Law and Rewards ([PDF](resources/mit6_262s11_lec11))'
+optional_text: 'Renewals: Strong Law and Rewards ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec11))'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture begins with the SLLN and the central limit theorem for renewal processes. This is followed by the time-average behavior of reward functions such as residual life.
 
 **Instructor:** Prof. Robert Gallager
+
+
+

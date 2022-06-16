@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Little, M/G/1, Ensemble Averages ([PDF](resources/mit6_262s11_lec13))
+optional_text: Little, M/G/1, Ensemble Averages ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec13))
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture covers a variety of topics, including elementary renewal theorem, generalized stopping trials, the G/G/1 queue, Little's theorem, ensemble averages and more.
 
 **Instructor:** Prof. Robert Gallager
+
+
+

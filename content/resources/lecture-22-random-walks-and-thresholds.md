@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Random Walks and Thresholds ([PDF](resources/mit6_262s11_lec22))
+optional_text: Random Walks and Thresholds ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec22))
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture covers topics including the Kingman bound for G/G/1, large deviations for hypothesis tests, sequential detection, and tilted random variables and proof of Wald's identity.
 
 **Instructor:** Prof. Robert Gallager
+
+
+

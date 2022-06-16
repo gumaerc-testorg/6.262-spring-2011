@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Law of Large Numbers, Convergence ([PDF](resources/mit6_262s11_lec03))
+optional_text: Law of Large Numbers, Convergence ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec03))
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture begins with the use of the WLLN in probabilistic modeling. Next the central limit theorem, the strong law of large numbers (SLLN), and convergence are discussed.
 
 **Instructor:** Prof. Robert Gallager
+
+
+

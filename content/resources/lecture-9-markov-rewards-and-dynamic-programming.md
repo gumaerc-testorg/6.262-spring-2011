@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Markov Rewards and Dynamic Programming ([PDF](resources/mit6_262s11_lec09))
+optional_text: Markov Rewards and Dynamic Programming ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec09))
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture covers rewards for Markov chains, expected first passage time, and aggregate rewards with a final reward. The professor then moves on to discuss dynamic programming and the dynamic programming algorithm.
 
 **Instructor:** Prof. Robert Gallager
+
+
+

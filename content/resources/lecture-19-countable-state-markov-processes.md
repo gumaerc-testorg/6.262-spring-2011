@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Countable-state Markov Processes ([PDF](resources/mit6_262s11_lec19))
+optional_text: Countable-state Markov Processes ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec19))
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Markov processes with countable state-spaces are developed in terms of the embedded Markov chain. The steady-state process probabilities and the steady-state transition probabilities are treated.
 
 **Instructor:** Prof. Robert Gallager
+
+
+

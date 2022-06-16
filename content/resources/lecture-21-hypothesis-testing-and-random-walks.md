@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: Hypothesis Testing and Random Walks ([PDF](resources/mit6_262s11_lec21))
+optional_text: Hypothesis Testing and Random Walks ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec21))
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Sequential hypothesis testing is viewed as a random walk example. Threshold hypothesis tests are distinguished from random walk thresholds. Random walk threshold probabilities are analyzed by Chernoff bounds.
 
 **Instructor:** Prof. Robert Gallager
+
+
+
