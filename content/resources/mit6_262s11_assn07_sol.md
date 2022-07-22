@@ -5,6 +5,7 @@ file: /courses/6-262-discrete-stochastic-processes-spring-2011/8c50f40e1dbf6f198
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_262S11_assn07_sol.pdf
 uid: 8c50f40e-1dbf-6f19-8bd9-8a3b87158bc6
 ---
 This resource contains solution to the problem M/G/1 queuing system. 
-

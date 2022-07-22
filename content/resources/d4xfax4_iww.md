@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-262-discrete-stochastic-processes-spring-2011/f6e0d1ded30a75254d657f8e4db8cded_d4xfax4_Iww.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

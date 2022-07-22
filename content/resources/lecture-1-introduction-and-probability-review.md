@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: Introduction and Probability Review ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec01))
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Probability, as it appears in the real world, is related to axiomatic mathematical models. Events, independence, and random variables are reviewed, stressing both the axioms and intuition.
 
 **Instructor:** Prof. Robert Gallager
-
-
 

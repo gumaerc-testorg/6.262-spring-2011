@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: Finite-state Markov Chains; The Matrix Approach ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec07))
@@ -30,6 +31,4 @@ video_metadata:
 (Courtesy of Shan-Yuan Ho. Used with permission.)
 
 **Instructor:** Shan-Yuan Ho
-
-
 

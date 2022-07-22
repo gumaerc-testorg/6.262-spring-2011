@@ -5,6 +5,7 @@ file: /courses/6-262-discrete-stochastic-processes-spring-2011/a757b5212b8130857
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_262S11_final11_sol.pdf
 uid: a757b521-2b81-3085-70a3-c9bdff7cbb13
 ---
 This resource contains solution to the problem Yule process.
-

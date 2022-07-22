@@ -5,6 +5,7 @@ file: /courses/6-262-discrete-stochastic-processes-spring-2011/bba902f5f2c850d5e
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_262S11_mid10_sol.pdf
 uid: bba902f5-f2c8-50d5-e7f6-f52c073de4d7
 ---
 This resource contains solution to the problem finite state Markov chain.
-

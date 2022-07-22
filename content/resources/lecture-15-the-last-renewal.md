@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: The Last Renewal ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec15))
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, we continue our discussion of renewals and cover topics such as Markov chains and renewal processes, expected number of renewals, elementary renewal and Blackwell theorems, and delayed renewal processes.
 
 **Instructor:** Prof. Robert Gallager
-
-
 

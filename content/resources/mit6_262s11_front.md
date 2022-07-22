@@ -5,6 +5,7 @@ file: /courses/6-262-discrete-stochastic-processes-spring-2011/b965db489a9376713
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_262S11_front.pdf
 uid: b965db48-9a93-7671-3933-7e0a41d2c419
 ---
 This resource contains information related to preface, table of contents.
-

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: Renewals and Countable-state Markov ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec16))
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** After reviewing the three major renewal theorems, we introduce Markov chains with countable state spaces. The matrix approach for finite-state chains is replaced by renewals based on first-passage times.
 
 **Instructor:** Prof. Robert Gallager
-
-
 

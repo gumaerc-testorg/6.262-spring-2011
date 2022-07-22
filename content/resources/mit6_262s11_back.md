@@ -5,6 +5,7 @@ file: /courses/6-262-discrete-stochastic-processes-spring-2011/cbd79478f59587d6c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_262S11_back.pdf
 uid: cbd79478-f595-87d6-c144-c54a848a86ff
 ---
 This resource contains information related to Appendix, bibliography.
-

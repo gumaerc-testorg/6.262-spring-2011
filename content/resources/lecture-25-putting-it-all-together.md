@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: Putting It All Together ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec25))
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, we put together many of the topics covered throughout the term: martingales; Markov chains; countable state Markov processes; reversibility for Markov processes; random walks; and Wald's identity for two thresholds.
 
 **Instructor:** Prof. Robert Gallager
-
-
 

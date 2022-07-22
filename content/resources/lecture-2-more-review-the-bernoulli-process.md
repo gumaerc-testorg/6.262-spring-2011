@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: More Review; The Bernoulli Process ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec02))
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** The review of probability is continued with expectation, multiple random variables, and conditioning. We then move on to develop the weak law of large numbers (WLLN) and the Bernoulli process.
 
 **Instructor:** Prof. Robert Gallager
-
-
 

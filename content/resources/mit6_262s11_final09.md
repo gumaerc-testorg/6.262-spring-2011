@@ -5,6 +5,7 @@ file: /courses/6-262-discrete-stochastic-processes-spring-2011/cf4e51e7d56c6eeed
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_262S11_final09.pdf
 uid: cf4e51e7-d56c-6eee-dfe1-f72a2e90ecde
 ---
 This resource contains problems related to Markov process.
-

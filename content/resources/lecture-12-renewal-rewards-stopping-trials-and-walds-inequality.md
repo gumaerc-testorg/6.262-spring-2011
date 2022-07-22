@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: Renewal Rewards, Stopping Trials, and Wald's Inequality ([PDF](/courses/6-262-discrete-stochastic-processes-spring-2011/resources/mit6_262s11_lec12))
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, we learn about time-averages for renewal rewards, stopping trials for stochastic processes, and Wald's equality.
 
 **Instructor:** Prof. Robert Gallager
-
-
 
