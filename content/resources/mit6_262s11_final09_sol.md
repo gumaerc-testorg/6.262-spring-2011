@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solution to the problem Markov chain.
 file: /courses/6-262-discrete-stochastic-processes-spring-2011/35df0c6d934c1c567401d19afa5c668e_MIT6_262S11_final09_sol.pdf
+file_size: 362401
 file_type: application/pdf
 learning_resource_types:
 - Exams

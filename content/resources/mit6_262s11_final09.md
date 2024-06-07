@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems related to Markov process.
 file: /courses/6-262-discrete-stochastic-processes-spring-2011/cf4e51e7d56c6eeedfe1f72a2e90ecde_MIT6_262S11_final09.pdf
+file_size: 162380
 file_type: application/pdf
 learning_resource_types:
 - Exams
