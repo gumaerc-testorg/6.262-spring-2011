@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solution for the problem set the derivation.
 file: /courses/6-262-discrete-stochastic-processes-spring-2011/b2e0806148dad19dc8e6d9f9627dfbb1_MIT6_262S11_assn08_sol.pdf
+file_size: 718845
 file_type: application/pdf
 learning_resource_types:
 - Assignments

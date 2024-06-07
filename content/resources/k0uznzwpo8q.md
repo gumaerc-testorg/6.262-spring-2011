@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-262-discrete-stochastic-processes-spring-2011/3e4fc64527b9f7301e9f697d3c946cbb_k0UZNZwPO8Q.srt
+file_size: 105660
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
