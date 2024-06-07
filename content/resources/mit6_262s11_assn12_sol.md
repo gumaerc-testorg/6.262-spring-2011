@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solution for the problem set binary hypothesis.
 file: /courses/6-262-discrete-stochastic-processes-spring-2011/62715a03a3efc0d8464d4af217565752_MIT6_262S11_assn12_sol.pdf
+file_size: 255173
 file_type: application/pdf
 learning_resource_types:
 - Assignments

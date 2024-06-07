@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solution to the problem Markov inequality.
 file: /courses/6-262-discrete-stochastic-processes-spring-2011/5ac94bbbf158ac3b6829d0a1ac7d8e28_MIT6_262S11_assn06_sol.pdf
+file_size: 623475
 file_type: application/pdf
 learning_resource_types:
 - Assignments
