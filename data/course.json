@@ -39,10 +39,11 @@
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",
-    "Online Textbook",
+    "Open Textbooks",
     "Lecture Videos"
   ],
   "site_uid": "bc19a4e9-e9ff-4fb8-9097-584819ac9632",
   "site_short_id": "6.262-spring-2011",
+  "site_url_path": "courses/6-262-discrete-stochastic-processes-spring-2011",
   "title": "Course Metadata"
 }
