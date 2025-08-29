@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solution to the problem self-loop transition.
-file: /courses/6-262-discrete-stochastic-processes-spring-2011/67555a6b35aa5d16b5a7afa29272042c_MIT6_262S11_mid11_sol.pdf
+file: /ol-ocw-studio-app/courses/6-262-discrete-stochastic-processes-spring-2011/67555a6b35aa5d16b5a7afa29272042c_MIT6_262S11_mid11_sol.pdf
 file_size: 313455
 file_type: application/pdf
 learning_resource_types:

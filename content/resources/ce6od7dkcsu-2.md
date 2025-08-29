@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-262-discrete-stochastic-processes-spring-2011/4bb67b70f6bc5beaa52212d78282a483_cE6OD7DkCSU.vtt
+file: /ol-ocw-studio-app/courses/6-262-discrete-stochastic-processes-spring-2011/4bb67b70f6bc5beaa52212d78282a483_cE6OD7DkCSU.vtt
 file_size: 83472
 file_type: application/x-subrip
 learning_resource_types: []
