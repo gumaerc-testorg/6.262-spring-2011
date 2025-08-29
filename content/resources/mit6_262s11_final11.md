@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems related to countable state Markov process.
-file: /ol-ocw-studio-app/courses/6-262-discrete-stochastic-processes-spring-2011/ddc1f2745a4d2f4883054bb434894eac_MIT6_262S11_final11.pdf
+file: /courses/6-262-discrete-stochastic-processes-spring-2011/ddc1f2745a4d2f4883054bb434894eac_MIT6_262S11_final11.pdf
 file_size: 204890
 file_type: application/pdf
 learning_resource_types:
