@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Course Notes
 uid: c993794d-3d33-ecec-dc71-65ca875a7660
 ---
-This section contains a draft of the class notes as provided to the students in Spring 2011. An updated and improved version of the draft notes [can be found here](https://web.archive.org/web/20230107224918/https:/www.rle.mit.edu/rgallager/notes.htm). However, the problem sets refer to the problems as they are numbered in the OCW notes.
+This section contains a draft of the class notes as provided to the students in Spring 2011. An updated and improved version of the draft notes {{% resource_link "0c678133-328d-405c-afa8-20ef61b31531" "can be found here" %}}. However, the problem sets refer to the problems as they are numbered in the OCW notes.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 CHAPTERS
